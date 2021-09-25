@@ -71,3 +71,4 @@ This exam covers the following skills:
 
 * [Microsoft Certified: Azure Data Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-data-engineer/)
 * [Exam Guide](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT)
+* [Data Partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies)
