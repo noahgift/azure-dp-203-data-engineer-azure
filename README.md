@@ -66,6 +66,22 @@ This exam covers the following skills:
 
 ## Design and develop data processing - Part 2
 
+### Ingest and transform data
+
+ transform data by using Apache Spark
+ transform data by using Transact-SQL
+ transform data by using Data Factory
+ transform data by using Azure Synapse Pipelines
+ transform data by using Stream Analytics
+ cleanse data
+ split data
+ shred JSON
+ encode and decode data
+ configure error handling for the transformation
+ normalize and denormalize values
+ transform data by using Scala
+ perform data exploratory analysis
+
 
 ## Key References
 
