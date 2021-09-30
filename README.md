@@ -68,20 +68,70 @@ This exam covers the following skills:
 
 ### Ingest and transform data
 
- transform data by using Apache Spark
- transform data by using Transact-SQL
- transform data by using Data Factory
- transform data by using Azure Synapse Pipelines
- transform data by using Stream Analytics
- cleanse data
- split data
- shred JSON
- encode and decode data
- configure error handling for the transformation
- normalize and denormalize values
- transform data by using Scala
- perform data exploratory analysis
+* transform data by using Apache Spark
+* transform data by using Transact-SQL
+* transform data by using Data Factory
+* transform data by using Azure Synapse Pipelines
+* transform data by using Stream Analytics
+* cleanse data
+* split data
+* shred JSON
+* encode and decode data
+* configure error handling for the transformation
+* normalize and denormalize values
+* transform data by using Scala
+* perform data exploratory analysis
 
+### Design and develop a batch processing solution
+
+* develop batch processing solutions by using Data Factory, Data Lake, Spark, Azure Synapse Pipelines, PolyBase, and Azure Databricks
+* create data pipelines
+* design and implement incremental data loads
+* design and develop slowly changing dimensions
+* handle security and compliance requirements
+* scale resources
+* configure the batch size
+* design and create tests for data pipelines
+* integrate Jupyter/Python notebooks into a data pipeline
+* handle duplicate data
+* handle missing data
+* handle late-arriving data
+* upsert data
+* regress to a previous state
+* design and configure exception handling
+* configure batch retention
+* design a batch processing solution
+* debug Spark jobs by using the Spark UI
+
+### Design and develop a stream processing solution
+
+* develop a stream processing solution by using Stream Analytics, Azure Databricks, and Azure Event Hubs
+* process data by using Spark structured streaming
+* monitor for performance and functional regressions
+* design and create windowed aggregates
+* handle schema drift
+* process time series data
+* process across partitions
+* process within one partition
+* configure checkpoints/watermarking during processing
+* scale resources
+* design and create tests for data pipelines
+* optimize pipelines for analytical or transactional purposes
+* handle interruptions
+* design and configure exception handling
+* upsert data
+* replay archived stream data
+* design a stream processing solution
+
+### Manage batches and pipelines
+
+* trigger batches
+* handle failed batch loads
+* validate batch loads
+* manage data pipelines in Data Factory/Synapse Pipelines
+* schedule data pipelines in Data Factory/Synapse Pipelines
+* implement version control for pipeline artifacts
+* manage Spark jobs in a pipeline
 
 ## Key References
 
